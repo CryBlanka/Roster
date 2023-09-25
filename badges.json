@@ -1,0 +1,54 @@
+{
+    "badges": [
+        {
+            "name": "Administrator",
+            "description": "This badge identifies an account as belonging to a Clippsly administrator. Only official Clippsly administrators will possess this badge.",
+            "image": "https://cdn.clippsly.com/badge_image/admin-badge.png"
+        },
+        {
+            "name": "Sexy Man",
+            "description": "I'm a sexy man, why you need to be curious?",
+            "image": "https://cdn.clippsly.com/badge_image/sexyman-badge.png"
+        },
+        {
+            "name": "100 Streams",
+            "description":"Great start, this artist have achieved at least 100 streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/bronze-badge.png"
+        },
+        {
+            "name": "500 Streams",
+            "description":"Cool! This artist have achieved at least 500 streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/platinum-badge.png"
+        },
+        {
+            "name": "1k Streams",
+            "description":"Amazing, this artist have achieved at least 1k streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/gold-badge.png"
+        },
+        {
+            "name": "5k Streams",
+            "description":"We have a rising star here, this artist have achieved at least 5k streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/diamond-badge.png"
+        },
+        {
+            "name": "10k Streams",
+            "description":"Leaving the underground, this artist have achieved at least 10k streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/esmerald-badge.png"
+        },
+        {
+            "name": "50k Streams",
+            "description":"Leaving the underground, this artist have achieved at least 50k streams on Spotify.",
+            "image": "https://cdn.clippsly.com/badge_image/rainbow-badge.png"
+        },
+        {
+            "name": "Viral",
+            "description":"GOAT, this artist have achieved at least 100K streams on Spotify or have gone viral.",
+            "image": "https://cdn.clippsly.com/badge_image/viral-badge.png"
+        },
+        {
+            "name": "Softlock",
+            "description": "This artist have not been active in the last 6 months.",
+            "image": "https://cdn.clippsly.com/badge_image/softlock-badge.png"
+        }
+    ]
+}

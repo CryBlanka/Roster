@@ -1,0 +1,24 @@
+[
+    {
+        "ID": "001",
+        "name": "Demo",
+        "logo": "https://media.tenor.com/u_ejqUTFJwcAAAAd/mrjoker.gif",
+        "label": "Demo",
+        "Banned": false,
+        "email": "demo@clippsly.org",
+        "badges": [
+            "100 Streams",
+            "500 Streams",
+            "1k Streams",
+            "5k Streams",
+            "Viral"
+        ],
+        "YouTube": "youtube.",
+        "Spotify": "spotify",
+        "X": "x",
+        "Instagram": "instagram",
+        "SoundCloud": "soundcloud",
+        "Discord": "962234524509540392",
+        "ROBLOX": "1"
+    }
+]
