@@ -1,4 +1,4 @@
-## Instrukcje dotyczące korzystania z witryny demonstracyjnej (Instrukcje dostępu)
+## Instrukcje dotyczące korzystania z roster'a oraz jego instalacji
 
 Witaj w demo witryny roster! To miejsce jest stworzone w celu demonstracji funkcji związanych z zarządzaniem artystami, utworami muzycznymi oraz wytwórniami płytowymi. Możesz wykorzystać tę witrynę do przechowywania informacji o utworach, takich jak linki do usług streamingowych, kody ISRC i UPC oraz pliki dźwiękowe.
 
