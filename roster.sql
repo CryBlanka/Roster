@@ -43,9 +43,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `artist_id`, `username`, `password`, `can_edit`, `can_create`, `can_delete`, `can_terminate`) VALUES
-(1, 27, 'admin', 'UHasd8324sai%szjdbv', 1, 1, 1, 1),
-(2, 21, 'mascuwu', 'JJIbsayudy786%^%asnd', 1, 1, 1, 1),
-(4, 0, 'wiktor', 'ori4.rTRy6f09?*p', 1, 1, 0, 0);
+(1, 27, 'demo', 'demo', 1, 1, 1, 1);
 
 --
 -- Indexes for dumped tables
